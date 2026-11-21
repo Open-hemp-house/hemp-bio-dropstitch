@@ -1,4 +1,5 @@
 #### Hemp-Bio-DropStitch: Биоразлагаемый конопляный пневмокаркасный композит (Спецификация v1.2)
+English version - https://github.com/Open-hemp-house/hemp-bio-dropstitch/blob/main/README_EN.md
 
 **Статус проекта:** Открытый инженерный стандарт — Общественное достояние (Public Domain / CC0 1.0). 
 
